@@ -15,7 +15,7 @@ import Utils.Draw;
 import Utils.TextureLoader;
 
 public class Stage1 extends Stage{
-	static BufferedImage image = TextureLoader.loadImage("stage1.jpg");
+	static BufferedImage image = TextureLoader.loadImage("images/stage1.jpg");
 	Reimu reimu;
 	Alice alice;
 

@@ -15,7 +15,7 @@ public class Alice extends Boss{
 	public Alice(float x, float y, float height, float width, float rotation) {
 		super(x, y, height, width, rotation);
 		if (image == null) {
-			image = TextureLoader.loadImage("alice.png");
+			image = TextureLoader.loadImage("images/alice.png");
 			textureID = TextureLoader.loadTexture(image, true);
 			this.setCheckCollision(false);
 		}

@@ -14,7 +14,7 @@ public class Reimu extends Player{
 	public Reimu(float x, float y, float height, float width, float rotation) {
 		super(x, y, height, width, rotation);
 		if (image == null) {
-			image = TextureLoader.loadImage("yuyuko.png");
+			image = TextureLoader.loadImage("images/yuyuko.png");
 			textureID = TextureLoader.loadTexture(image , true);
 		}
 	}

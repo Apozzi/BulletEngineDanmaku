@@ -20,10 +20,10 @@ public class Bullet extends GamePhysicsBody{
 	static {
 		textureID = new int[2];
 		String picture = "";
-		picture = "bullet.png";
+		picture = "images/bullet.png";
 		image = TextureLoader.loadImage(picture);
 		textureID[BulletTypeEnum.RED_DIRECTIONAL.getNumber()] = TextureLoader.loadTexture(image, false);
-		picture = "bullet2.png";
+		picture = "images/bullet2.png";
 		image = TextureLoader.loadImage(picture);
 		textureID[BulletTypeEnum.YELLOW_CIRCLE.getNumber()] = TextureLoader.loadTexture(image, false);
 	}
