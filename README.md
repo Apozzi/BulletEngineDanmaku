@@ -8,5 +8,6 @@ pt-br:
 -------------------------
 Uma game engine JAVA baseada em jogos do estilo bullet hell, dos quais o jogador deve desviar em uma quantidade grande de balas que simulam diversos padrões de tiros, baseado na mecanica classicos touhou e space shooter.
 
-<br/>
+
+
 ![Screenshot](http://adeveloper.com.br/TrabalhoEUA/framework.png)
