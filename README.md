@@ -6,7 +6,7 @@ PT-Br:
 -----------
 Uma game engine JAVA baseada em jogos do estilo bullet hell, dos quais o jogador deve desviar em uma quantidade grande de balas que simulam diversos padrões de tiros, baseado na mecanica classicos touhou e space shooter.
 
-##Obs.: Toda organização estrutural de código foi feita através modelo de Clean Archicture com Escolhas estruturais feitas por mim. O livro é de Robert C.Martin.  
+## Obs.: Toda organização estrutural de código foi feita através modelo de Clean Archicture com Escolhas estruturais feitas por mim. O livro é de Robert C.Martin.  
 
 
 
